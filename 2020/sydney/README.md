@@ -4,13 +4,13 @@ NDC Sydney was held virtually from 12-16 October 2020.
 
 Telstra Purple had the following workshops:
 
-* Web Performance Matters Workshop - Yaser Adel Mehraban
+* [Web Performance Matters Workshop - Yaser Adel Mehraban](web-performance/README.md)
 * KEDA, Scale Your Kubernetes Workload on Your Own Terms - Emad Alashi
 
 Telstra Purple had the following talks:
 
 * Fixing poor performance patterns in Azure SQL Database applications - Martin Cairney
-* Tuning web performance with just browser APIs - Yaser Adel Mehraban
+* [Tuning web performance with just browser APIs - Yaser Adel Mehraban](web-performance/README.md)
 * Not all "Microservices frameworks" are made the same - Dasith Wijesiriwardena
 * [Tips and tricks for robust big data applications](big-data-tips-and-tricks/README.md) - Yousry Mohamed
 * Battles of an Impostor - Melissa Houghton
