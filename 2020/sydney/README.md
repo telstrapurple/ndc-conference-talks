@@ -4,7 +4,7 @@ NDC Sydney was held virtually from 12-16 October 2020.
 
 Telstra Purple had the following workshops:
 
-* Web Performance Matters Workshop - Yaser Adel Mehraban
+* [Web Performance Matters Workshop - Yaser Adel Mehraban](web-performance/README.md)
 * KEDA, Scale Your Kubernetes Workload on Your Own Terms - Emad Alashi
 
 Telstra Purple had the following talks:
