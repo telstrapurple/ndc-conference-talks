@@ -17,7 +17,7 @@ You'll leave this presentation with an understanding of the people, process and 
 
 ## Slides
 
-Todo
+[Download slide deck](https://raw.githubusercontent.com/telstrapurple/ndc-conference-talks/main/2020/sydney/secure-innovation-boundary/PurpleGraph_NDCSydney.pdf).
 
 ## Further reading
 
