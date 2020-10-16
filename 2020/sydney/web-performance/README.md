@@ -24,9 +24,9 @@ He is a fan of web technologies, having more than a decade of experience develop
 
 Yas appeared once again at NDC Sydney, not only as a speaker, but he also was part of the [NDC Committee](https://ndcsydney.com/ndc-sydney-2020-agenda-committee).
 
-We had a workshop titles [**Web Performance Matters**](https://ndcsydney.com/workshops/web-performance-matters-08d7/07aldlgvc4w) and a talk on [**Web performance tuning just with browser APIs**](https://ndcsydney.com/agenda/tuning-web-performance-with-just-browser-apis-0nde/0l2bpj1sxyt).
+He had a workshop titled [**Web Performance Matters**](https://ndcsydney.com/workshops/web-performance-matters-08d7/07aldlgvc4w) and a talk on [**Web performance tuning just with browser APIs**](https://ndcsydney.com/agenda/tuning-web-performance-with-just-browser-apis-0nde/0l2bpj1sxyt).
 
-Here are some resources Yas has prepared for you to get started on web performance tuning:
+Here are some resources he has prepared for you to get started on web performance tuning:
 
 * [https://developer.mozilla.org/en-US/docs/Web/API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [https://yashints.dev/blog/2020/06/22/intersection-observer-v2](https://yashints.dev/blog/2020/06/22/intersection-observer-v2)
