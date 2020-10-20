@@ -20,4 +20,4 @@ Emad speaks regularly in conferences and user groups, including NDC Sydney, Micr
 
 He is 4-times ASP.NET/IIS MVP, he hosts the DotNetArabi technical podcast, and on whatever time left he writes to his blog on [emadashi.com](https://emadashi.com).
 
-Emad, and currently works as a Managing Consultant Telstra Purple, he can be found on Twitter [@emadashi](https://twitter.com/emadashi).
+Emad is currently works as a Managing Consultant Telstra Purple, he can be found on Twitter [@emadashi](https://twitter.com/emadashi).
